@@ -2,9 +2,12 @@
 label: Name of the work 2
 hide_body: false
 fields:
-- type: text
-  name: image
-  label: image
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: thumbnail
+  hidden: false
 - type: boolean
   name: showonlyimage
   label: showonlyimage
