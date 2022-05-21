@@ -20,3 +20,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- content/portfolio/sample-1.md
