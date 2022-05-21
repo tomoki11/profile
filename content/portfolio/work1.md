@@ -1,6 +1,6 @@
 +++
 date = 2016-11-05T12:55:22Z
-image = "img/portfolio/a4-paper.jpg"
+image = ""
 showonlyimage = true
 title = "Name of the work 1"
 weight = 0
