@@ -1,6 +1,6 @@
 +++
 date = 2022-05-20T15:00:00Z
-showonlyimage = true
+showonlyimage = false
 thumbnail = "/uploads/abenomask.png"
 title = "Sample 1"
 weight = 1
