@@ -3,7 +3,7 @@ date = 2022-05-20T15:00:00Z
 image = "/uploads/abenomask.png"
 showonlyimage = false
 thumbnail = "/uploads/abenomask.png"
-title = "Sample 1"
+title = "Our lives with \"Abenomask\" "
 weight = 1
 
 +++
