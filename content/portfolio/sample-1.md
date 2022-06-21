@@ -1,6 +1,5 @@
 +++
 date = 2022-05-20T15:00:00Z
-draft = true
 image = "/uploads/abenomask.png"
 showonlyimage = false
 thumbnail = "/uploads/abenomask.png"
