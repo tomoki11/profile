@@ -21,4 +21,5 @@ fields:
   name: weight
   label: weight
 pages:
+- content/portfolio/dancing-in-low-gravity.md
 - content/portfolio/sample-1.md
