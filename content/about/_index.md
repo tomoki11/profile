@@ -7,8 +7,7 @@ Born in 1997, I graduated from the School of Advanced Science and Engineering, W
 
 ![](/uploads/profile_photos.png)
 
-#### Exhibitions
-
-#### Awards
-
 #### Education
+
+B.S., Engineering, Waseda University, March 2021  
+　Supervisor: Hideo Iwasaki 
