@@ -2,7 +2,7 @@
 date = ""
 image = ""
 showonlyimage = false
-title = "Dancing In Low Gravity"
+title = "Dancing In Low Gravity workshop"
 weight = 2
 
 +++
