@@ -4,7 +4,7 @@ image = "/uploads/abenomask.png"
 showonlyimage = false
 thumbnail = "/uploads/abenomask.png"
 title = "Our lives with \"Abenomask\" "
-weight = 1
+weight = 3
 
 +++
 ### アベノマスクと私たちの生活
