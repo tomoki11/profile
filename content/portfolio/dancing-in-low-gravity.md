@@ -8,13 +8,15 @@ weight = 1
 +++
 ***
 
+> Workshop Title: **Dancing in the (Primordial) Soup**
+>
 > Exhibition Title : **Short Circuit – Lunartic Dream and Princess Kaguya** 
 >
-> Organizer: **Henri Tan (Thailand artist) /** 
+> Organizer: **Henry Tan (Thailand artist) / Masato Takemura / et al.**
 >
-> Date :**2021.03.16**
+> Exhibition Date :**2021.03.01-15 (Workshop→14)**
 >
-> Place:**VR room**
+> About Exhibition : [**here**](https://www.henryandpartners.com/project/lunartic-dream/) **(→ Henry's Artist Page)**
 
 ***
 
@@ -35,6 +37,8 @@ Dancing in the (Primordial) Soup: Mix Reality Dance on Moon and Mars Gravity Sun
 After receiving dance lectures from two artists, participants of the workshop will actually express their bodies in a virtual reality. Kornkarn Rungsawang gave a lecture on "vagina dance" inspired by female/vagina and Matsumura gave a lecture on "microorganisms dance" inspired by zooplankton, E. coli and hyperthermophilic bacteria. Rungsawang improvised and fused the two dances into a performance in virtual reality with workshop participants.
 
 The dance was inspired by the primordial soup, the "woman" as a symbol of the creation of life, and the "microorganisms" as a symbol of the origin of life.
+
+**HERE:** [**Workshop youtube link**](https://youtu.be/DhSXPfjEX10) 
 
 #### Microorganisms Dance 
 
