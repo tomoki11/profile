@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
   # Use custom.css for your custom styling
   style = "default"
   description = "Tomoki matsumura(松村寛季) web site. I am a performance artist & biologist"
-  copyright = "&copy;2016 Tomoki Matsumura"
+  copyright = "&copy;2022 Tomoki Matsumura"
   sidebarAbout = [
     "I am a performance artist & biologist",
     "I am interested in the relationship between humans and life/nature in physicality."
