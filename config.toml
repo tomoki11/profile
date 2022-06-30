@@ -14,11 +14,11 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "Tomoki matsumura(松村寛季) web site. I am a performance artist & biologist"
+  copyright = "&copy;2016 Tomoki Matsumura"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "I am a performance artist & biologist",
+    "I am interested in the relationship between humans and life/nature in physicality."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -58,14 +58,12 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  facebook      = "https://www.facebook.com/profile.php?id=100010276267166"
+  email         = "swimtomo11@gmail.com"
+  twitter       = "https://twitter.com/tomokimatsumura"
+  # linkedin      = "full profile url in linkedin"
+  # stackoverflow = "full profile url in stackoverflow"
+  # instagram     = "full profile url in instagram"
+  github        = "https://github.com/tomoki11"
+  youtube       = "https://www.youtube.com/channel/UCvBR35Ewk_vpT-FVrENgYHQ"
+  # whatsapp      = "wa.me service link"
