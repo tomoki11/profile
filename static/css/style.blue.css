@@ -10,12 +10,18 @@ Startup Template By Bootstrapious.com
 GENERAL
 =====================
 */
-html,
-body {
+html {
   font-size: 62.5%;
   overflow-x: hidden;
   /* Prevent scroll on narrow devices */
 }
+
+body {
+  font-size: clamp(1.4rem, calc(1.0rem + 0.6vw), 1.6rem);
+  overflow-x: hidden;
+  /* Prevent scroll on narrow devices */
+}
+
 header {
   z-index: 1000;
 }
