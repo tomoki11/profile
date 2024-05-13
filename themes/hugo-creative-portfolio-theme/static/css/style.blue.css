@@ -1956,29 +1956,35 @@ h6,
 h1,
 .h1 {
   font-size: clamp(1.8rem, calc(1.8rem + 0.4vw), 3.2rem);
+  letter-spacing: 0.05em;
 }
 h2,
 .h2 {
   font-size: clamp(1.4rem, calc(1.6rem + 0.4vw), 2.4rem);
+  letter-spacing: 0.05em;
 }
 h3,
 .h3 {
   font-size: clamp(1.2rem, calc(1rem + 0.4vw), 1.6rem);
   font-weight: 700;
+  letter-spacing: 0.05em;
 }
 h4,
 .h4 {
   font-size: clamp(1.2rem, calc(0.8rem + 0.4vw), 1.4rem);
   border-bottom: 1px solid #000;
   display: inline-block;
+  letter-spacing: 0.05em;
 }
 h5,
 .h5 {
   font-size: clamp(1.2rem, calc(0.8rem + 0.4vw), 1.4rem);
+  letter-spacing: 0.05em;
 }
 h6,
 .h6 {
   font-size: clamp(1.2rem, calc(0.8rem + 0.4vw), 1.4rem);
+  letter-spacing: 0.05em;
 }
 h1,
 .h1,
@@ -1992,6 +1998,7 @@ h3,
 p {
   font-size: clamp(1.2rem, calc(0.8rem + 0.4vw), 1.4rem);
   margin: 0 0 12px;
+  letter-spacing: 0.05em;
 }
 .lead {
   margin-bottom: 12px;
