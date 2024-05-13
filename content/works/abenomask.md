@@ -16,9 +16,9 @@ weight = 3
 ![](/uploads/abenomask-2.png)
 
 ## プロジェクト  
-2020年4月17日から始まったアベノマスクの配布について、使用状況の写真を100枚集めたプロジェクトである。同年6月4日から、「1ミリも触れないでこの瞬間の写真を撮ってほしい」という依頼をSNSで発信し、集まった100枚の写真を一覧として掲載している。
+2020年4月17日から始まったアベノマスクの配布について、使用状況を確かめるために、現在のアベノマスクの状態を写真として100枚集めたプロジェクトです。「1ミリも触れないでこの瞬間のアベノマスクの写真を撮ってほしい」という依頼を同年6月4日からSNSで発信し、集まった100枚の写真を一覧として掲載しています。
 
-本プロジェクトは、[BECV](https://becv.jp/) という新型コロナウイルスの終息までをともにするオンライン展示にて公開した。リアルタイムの感染者数データと連動し、終息とともにサイトは閉鎖され、展示は閉幕となる。
+本プロジェクトは、[BECV](https://becv.jp/) という新型コロナウイルスの終息までをともにするオンライン展示にて公開しました。このオンライン展示では、リアルタイムの感染者数データと連動して、コロナの終息とともにサイトが閉鎖されて展示が閉幕となります。
 
 以下、BECVにて記載しているコメント
 >経緯をいうと、家の中の、雑に放置されているアベノマスクをみたときに、日本中ほとんどの家でも同じように放置されているのでは？と考えたら、フフッと笑ってしまったのが発端でした。(笑)
@@ -33,14 +33,14 @@ weight = 3
 BECVは不要不急の活動が制限される中で、アーティストたちが各々の環境で思考し、実践した結果から構成されるオンライン展示です。サイトはリアルタイムの感染者数データと連動し、会期は終息の基準とされる「28日寛の新規感染者数ゼロ*」を日本が満たすまでとします。    
 _*WHOがSARS、エボラ出血熱の特定エリアでの終息の基準とした「潜伏期間の2倍の期間、新規感染者が現れない」に基づく。_
 
-展示企画：石橋友也、 新倉 健人 (Kento Niikura) 、吉田 竜二 (Ryuji Yoshida)  
+展示企画：石橋友也、 新倉健人 、吉田竜二  
 
 ***
 
 ## Project
-This project is a collection of 100 photos of the use of the Abenomask distribution that began on April 17, 2020. Starting on June 4 of the same year, the project sent out a request on social networking sites to "take a photo of this moment without touching a millimeter," and posted the 100 photos gathered as a list.
+This project collected 100 photos of the current state of the "Abenomasks" in order to verify their use for the distribution of the "Abenomasks" that began on April 17, 2020. The project started on June 4 of the same year with a request on social networking sites to "take a picture of the "Abenomask" at this moment without touching it even a millimeter," and the 100 photos collected were posted as a list.
 
-The project was made public through BECV, an online exhibit that follows the novel coronavirus through its end. The site is linked to real-time data on the number of people infected, and when the virus ends, the site closes and the exhibit is closed.
+The project was made public through [BECV](https://becv.jp/), an online exhibit that follows the novel coronavirus through its end. The site is linked to real-time data on the number of people infected, and when the virus ends, the site closes and the exhibit is closed.
 
 BECV Comments below
 >The background of this piece is that when I saw my “Abenomask”(a mask sent from the Japanese government/Prime Minister Abe) carelessly tossed aside in my house, the thought that they’re probably also being treated similarly in most houses across Japan crossed my mind. I chuckled at the thought, and that was what inspired the piece (lol).  When I actually gathered 100 pictures, they were all each unique Abenomasks!! It’s like the lifestyle and personality of each person who contributed a picture is reflected in each shot. There were even a few people who were actually using the mask. There were a lot of places where the masks had not been delivered in relatively rural areas, and there were also a couple people who had already thrown them away or given them away to people who needed them. Although this is only out of the people I heard from, it was very interesting that there was not a single person who had returned the mask.
