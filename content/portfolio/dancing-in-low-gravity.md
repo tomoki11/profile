@@ -2,7 +2,7 @@
 date = 2021-03-13T15:00:00Z
 image = "/uploads/dancing_in_the_primordial_soup.png"
 showonlyimage = false
-title = "【ワークショップ】Dancing in the Primordial Soup"
+title = "【2021.03 WS 】Dancing in the Primordial Soup"
 weight = 1
 
 +++

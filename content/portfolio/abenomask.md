@@ -3,7 +3,7 @@ date = 2022-05-20T15:00:00Z
 image = "/uploads/abenomask.png"
 showonlyimage = false
 thumbnail = "/uploads/abenomask.png"
-title = "【プロジェクト】アベノマスクと私たちの生活"
+title = "【2020.06-07 PJ 】アベノマスクと私たちの生活"
 weight = 3
 
 +++
