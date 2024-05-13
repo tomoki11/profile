@@ -37,7 +37,7 @@ _*WHOがSARS、エボラ出血熱の特定エリアでの終息の基準とし�
 
 ***
 
-## project
+## Project
 This project is a collection of 100 photos of the use of the Abenomask distribution that began on April 17, 2020. Starting on June 4 of the same year, the project sent out a request on social networking sites to "take a photo of this moment without touching a millimeter," and posted the 100 photos gathered as a list.
 
 The project was made public through BECV, an online exhibit that follows the novel coronavirus through its end. The site is linked to real-time data on the number of people infected, and when the virus ends, the site closes and the exhibit is closed.
