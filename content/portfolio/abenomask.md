@@ -7,7 +7,6 @@ title = "【プロジェクト】アベノマスクと私たちの生活"
 weight = 3
 
 +++
-#### アベノマスクと私たちの生活 - Our lives with \"Abenomask\" -
 ![](/uploads/abenomask.png)
 
 ![](/uploads/abenomask-info.png)
@@ -16,7 +15,7 @@ weight = 3
 
 ![](/uploads/abenomask-2.png)
 
-#### プロジェクト  
+## プロジェクト  
 2020年4月17日から始まったアベノマスクの配布について、使用状況の写真を100枚集めたプロジェクトである。同年6月4日から、「1ミリも触れないでこの瞬間の写真を撮ってほしい」という依頼をSNSで発信し、集まった100枚の写真を一覧として掲載している。
 
 本プロジェクトは、[BECV](https://becv.jp/) という新型コロナウイルスの終息までをともにするオンライン展示にて公開した。リアルタイムの感染者数データと連動し、終息とともにサイトは閉鎖され、展示は閉幕となる。
@@ -29,7 +28,7 @@ weight = 3
 今回のプロジェクトを通して改めて、素晴らしい人々が多くいらっしゃることに気づきました。彼らは、「アベノマスクの写真撮って」という変なお願いを快く引き受けてくれたのです。(笑)
 この場をお借りして、感謝申し上げます。ありがとうございました。
 
-##### BECVについて (※サイトより引用）  
+### BECVについて (※サイトより引用）  
 **webサイト: [https://becv.jp/](https://becv.jp/)**  
 BECVは不要不急の活動が制限される中で、アーティストたちが各々の環境で思考し、実践した結果から構成されるオンライン展示です。サイトはリアルタイムの感染者数データと連動し、会期は終息の基準とされる「28日寛の新規感染者数ゼロ*」を日本が満たすまでとします。    
 _*WHOがSARS、エボラ出血熱の特定エリアでの終息の基準とした「潜伏期間の2倍の期間、新規感染者が現れない」に基づく。_
@@ -38,7 +37,7 @@ _*WHOがSARS、エボラ出血熱の特定エリアでの終息の基準とし�
 
 ***
 
-#### project
+## project
 This project is a collection of 100 photos of the use of the Abenomask distribution that began on April 17, 2020. Starting on June 4 of the same year, the project sent out a request on social networking sites to "take a photo of this moment without touching a millimeter," and posted the 100 photos gathered as a list.
 
 The project was made public through BECV, an online exhibit that follows the novel coronavirus through its end. The site is linked to real-time data on the number of people infected, and when the virus ends, the site closes and the exhibit is closed.
@@ -49,7 +48,7 @@ Also, each picture is different, but the most common pattern was that there were
 I realized again through this project that there are many wonderful people. They all kindly accepted my weird request to “take a picture of your Abenomask” (lol). I would like to take this opportunity to express my gratitude. Thank you very much.
 
 
-##### About BECV (※Cited from web)
+### About BECV (※Cited from web)
 **web site: [https://becv.jp/](https://becv.jp/)**  
 BECV is an online exhibition composing of the results of the artists' thinking and accomplishment in their respective environment, while all non-essential and non-urgent activities are restricted. The website is linked to the real-time data on the number of infected people, and exhibition will continue until Japan meets the condition to lift the restriction (zero new infection for 28 days*).  
 _*Based on the critical of "no new cases over a duration </small>_
