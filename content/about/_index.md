@@ -7,7 +7,7 @@ title = "About me"
 
 Born in 1997, she started swimming competitively in 2000 and switched to fin-swimming when she entered Waseda University in 2016; she won the national championship and qualified for the World Championships in fin-swimming in 2018. With an interest in life and art, she joined metaPhorest in 2020 while working in Hideo Iwasaki's lab. Based on his swimming experience, he aims to develop and research Daphnia swimming performance and to examine the world of microorganisms (Daphnia) through practice.
 
-####主な展示
+#### 主な展示
 2024/05 SICF25
 
 #### 学歴
