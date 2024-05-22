@@ -358,6 +358,7 @@ SIDEBAR + RIGHT COLUMN
   font-size: 14px;
 }
 .sidebar-menu {
+  font-size: clamp(1.6rem, calc(1.6rem + 0.6vw), 2.0rem);
   list-style-type: none;
   padding-left: 20px;
   margin-bottom: 40px;
