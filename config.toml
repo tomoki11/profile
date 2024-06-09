@@ -9,6 +9,7 @@ googleAnalytics = ""
 
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
 
+preserveTaxonomyNames = true
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet

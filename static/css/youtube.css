@@ -1,0 +1,53 @@
+/* youtube.css */
+.youtube-container {
+    font-size: clamp(1.4rem, calc(1.0rem + 0.6vw), 1.6rem);
+    margin-bottom: 1em; /* フォントサイズに応じた可変スペース */
+}
+.youtube {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    cursor: pointer;
+}
+.youtube-thumbnail {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
+.play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 68px;
+    height: 48px;
+    background-color: rgba(0, 0, 0, 0.5); /* 背景を追加してボタンを見やすく */
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.play-icon {
+    margin-left: 4px; /* 右にずらす */
+}
+.play-icon::before {
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 12px 0 12px 20px;
+    border-color: transparent transparent transparent white;
+}
+.youtube iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

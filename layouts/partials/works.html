@@ -19,13 +19,17 @@
                       {{ else }}
                       <div class="box-masonry-text">
                       {{ end }}
+                          <p class="tags-p">{{ range .Params.tags }}
+                                  <span>{{ . }}</span>
+                                  {{ end }}
+                          </p>
                           <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                           <div class="box-masonry-description">
                             <p>
                               {{ if .Description }}
-                                {{ .Description | truncate 200}}
+                                {{ .Description | truncate 120 }}
                               {{ else }}
-                                {{ .Summary | truncate 200}}
+                                {{ .Summary | truncate 120 }}
                               {{ end }}
                             </p>
                           </div>

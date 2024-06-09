@@ -1,0 +1,17 @@
+<div class="youtube-container">
+  <div class="youtube" data-video-id="{{ .Get 0 }}">
+    <div class="youtube-thumbnail" style="background-image: url('{{ .Get 1 }}');">
+      <div class="play-button">
+        <div class="play-icon"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- 外部スクリプトファイルを読み込む -->
+<script src="{{ "js/youtube.js" | relURL }}"></script>
+
+<!-- 外部CSSファイルを読み込む -->
+<link rel="stylesheet" href="{{ "css/youtube.css" | relURL }}">
+<script src="{{ "js/youtube.js" | relURL }}"></script>

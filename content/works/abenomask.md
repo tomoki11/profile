@@ -1,10 +1,11 @@
 +++
 date = 2022-05-20T15:00:00Z
-image = "/uploads/abenomask.png"
+image = "/uploads/abenomask-top.png"
 showonlyimage = false
 thumbnail = "/uploads/abenomask.png"
-title = "【2020.06-07 PJ 】アベノマスクと私たちの生活"
-weight = 3
+title = "アベノマスクと私たちの生活"
+weight = 4
+tags = ["2020/06","#project"]
 
 +++
 ![](/uploads/abenomask.png)
