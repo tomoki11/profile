@@ -32,12 +32,12 @@ Therefore, we focused on Daphnia, a much-loved microorganism in Japan, and start
 <br>
 <br>
 
-![](/uploads/making-1.png)
-![](/uploads/making-2.jpeg)
-![](/uploads/making-3.jpeg)
+![](/uploads/make-1.jpeg)
+![](/uploads/make-2.jpg)
+![](/uploads/make-3.jpeg)
 
-![](/uploads/daphnia-foot.png)
-![](/uploads/daphnia-heart.png)
+![](/uploads/daphnia-f.png)
+![](/uploads/daphnia-p.png)
 ![](/uploads/plot.png)
 
 <br>
@@ -85,4 +85,4 @@ Photo:Wataru Yamamoto
 スパイラルホール/青山
 ![](/uploads/IMG_6673.JPG)
 ![](/uploads/IMG_6671.jpg)
-![](/uploads/IMG_6674.JPG)
+![](/uploads/IMG_6674.jpg)
