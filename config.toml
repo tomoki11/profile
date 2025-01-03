@@ -1,5 +1,5 @@
 baseurl = "https://tomoki-matsumura.com/"
-title = "Tomoki MATSUMURA | 松村寛季"
+title = "Tomoki Matsumura | 松村寛季"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
 # Enable comments by entering your Disqus shortname
@@ -16,11 +16,10 @@ preserveTaxonomyNames = true
   # Use custom.css for your custom styling
   style = "blue"
   customCSS = ["/css/custom.css"]
-  description = "Tomoki MATSUMURA | 松村寛季 のホームページです。バイオアート・パフォーマンスアートについて、自ら取り組んだアート作品、ワークショップなどのプロジェクトを紹介しています。"
-  copyright = "&copy;2024 Tomoki Matsumura"
+  description = "Tomoki MATSUMURA 松村寛季 のホームページです。自ら取り組んだアート作品やワークショップなどのプロジェクトを紹介しています。"
+  copyright = "&copy;2025 Tomoki Matsumura"
   sidebarAbout = [
-    "アーティスト（バイオアート / パフォーマンスアート）",
-    "Artist (Bio-art / Performance Art)"
+    "Artist"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -69,3 +68,10 @@ preserveTaxonomyNames = true
   # github        = "https://github.com/tomoki11"
   # youtube       = "https://www.youtube.com/channel/UCvBR35Ewk_vpT-FVrENgYHQ"
   # whatsapp      = "wa.me service link"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      attribute = true

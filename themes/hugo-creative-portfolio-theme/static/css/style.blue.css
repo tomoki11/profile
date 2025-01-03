@@ -401,8 +401,6 @@ SIDEBAR + RIGHT COLUMN
   overflow-y: hidden;
 }
 .content-column-content {
-  padding-left: 20px;
-  padding-right: 20px;
   padding-bottom: 20px;
 }
 @media (min-width: 1200px) {
@@ -1980,19 +1978,19 @@ h3,
 }
 h4,
 .h4 {
-  font-size: clamp(1.4rem, calc(1.0rem + 0.6vw), 1.6rem);
+  font-size: clamp(1.2rem, calc(1.0rem + 0.6vw), 1.4rem);
   border-bottom: 1px solid #000;
   display: inline-block;
   letter-spacing: 0.07em;
 }
 h5,
 .h5 {
-  font-size: clamp(1.4rem, calc(1.0rem + 0.6vw), 1.6rem);
+  font-size: clamp(1.2rem, calc(1.0rem + 0.6vw), 1.4rem);
   letter-spacing: 0.07em;
 }
 h6,
 .h6 {
-  font-size: clamp(1.4rem, calc(1.0rem + 0.6vw), 1.6rem);
+  font-size: clamp(1.2rem, calc(1.0rem + 0.6vw), 1.4rem);
   letter-spacing: 0.07em;
 }
 h1,
@@ -2005,7 +2003,7 @@ h3,
   margin-bottom: 12px;
 }
 p {
-  font-size: clamp(1.4rem, calc(1.0rem + 0.6vw), 1.6rem);
+  font-size: clamp(1.2rem, calc(1.0rem + 0.6vw), 1.4rem);
   margin: 0 0;
   letter-spacing: 0.07em;
 }

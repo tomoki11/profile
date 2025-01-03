@@ -1,1 +1,5 @@
-/* your styles go here */
+.half-width {
+  width: 50%;          /* 親クラスの横幅の50% */
+  height: auto;        /* 高さを自動調整して比率を維持 */
+  display: block;      /* ブロック要素として扱い */
+}
