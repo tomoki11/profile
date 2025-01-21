@@ -59,8 +59,8 @@ preserveTaxonomyNames = true
   url = "contact/"
 
   [params.social]
-  instagram     = "https://www.instagram.com/tomoki__matsumura/"
-  facebook      = "https://www.facebook.com/profile.php?id=100010276267166"
+  instagram     = "https://www.instagram.com/tomokimatsumura/"
+  facebook      = "https://www.facebook.com/tomoki.matsumura11"
   twitter       = "https://twitter.com/tomokimatsumura"
   email         = "swimtomo11@gmail.com"
   # linkedin      = "full profile url in linkedin"
